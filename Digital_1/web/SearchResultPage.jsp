@@ -1,9 +1,3 @@
-<%-- 
-    Document   : Header
-    Created on : Apr 11, 2019, 8:37:36 PM
-    copyright by fu hub
-    link group https://www.facebook.com/groups/498752080529382/
---%>
 <%@page import="javax.naming.Context"%>
 
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
