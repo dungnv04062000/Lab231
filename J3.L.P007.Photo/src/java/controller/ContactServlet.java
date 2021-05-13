@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author DonOzOn
+ * @author Dell
  */
 public class ContactServlet extends HttpServlet {
 
