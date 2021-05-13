@@ -9,7 +9,7 @@ import dao.PhotoDao;
 
 /**
  *
- * @author DonOzOn
+ * @author Dell
  */
 public class Galery {
        private int ID;
