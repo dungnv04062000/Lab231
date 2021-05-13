@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Hoan toan hanh phuc
+ * @author Dell
  */
 @WebServlet(name = "DetailControl", urlPatterns = {"/DetailControl"})
 public class DetailControl extends HttpServlet {
