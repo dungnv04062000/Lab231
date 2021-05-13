@@ -9,7 +9,7 @@ import context.DBContext;
 
 /**
  *
- * @author DonOzOn
+ * @author Dell
  */
 public class Contact {
 
