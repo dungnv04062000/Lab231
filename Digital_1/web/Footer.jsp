@@ -1,10 +1,3 @@
-<%-- 
-    Document   : Footer
-    Created on : Apr 11, 2019, 8:41:06 PM
-    copyright by fu hub
-    link group https://www.facebook.com/groups/498752080529382/
---%>
-
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
