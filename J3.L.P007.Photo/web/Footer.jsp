@@ -1,7 +1,7 @@
 <%-- 
     Document   : Footer
     Created on : Mar 13, 2020, 9:22:11 PM
-    Author     : DonOzOn
+    Author     : Dell
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
