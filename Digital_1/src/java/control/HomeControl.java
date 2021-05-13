@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Hoan toan hanh phuc
+ * @author Dell
  */
 @WebServlet(name = "HomeControl", urlPatterns = {"/HomeControl"})
 public class HomeControl extends HttpServlet {
