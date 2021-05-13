@@ -1,7 +1,7 @@
 <%-- 
     Document   : HomePage
     Created on : Mar 13, 2020, 8:25:40 AM
-    Author     : DonOzOn
+    Author     : Dell
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
