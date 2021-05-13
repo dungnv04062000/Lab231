@@ -17,7 +17,7 @@ import java.util.List;
 
 /**
  *
- * @author DonOzOn
+ * @author Dell
  */
 public class PhotoDao {
 
